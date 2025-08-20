@@ -45,12 +45,15 @@ Dan buat juga action drop untuk trafik DNS yang menggunakan protocol udp.
 7. Lakukan Backup secara berkala serta Enkripsi dan Ambil File backupnya
 Agar tidak perlu konfigurasi ulang sebaiknya kita lakukan Backup secara berkala. Apalagi setelah selesai konfigurasi lakukan backup konfigurasi, dan jangan lupa pindahkan file backup tersebut ke PC atau laptop.
 
-8. Amankan Fisik Router
-Mikrotik membutuhkan perawatan Fisik seperti :
+8. Amankan Fisik Router      
+Mikrotik membutuhkan perawatan Fisik seperti :      
 - Proteksi kabel power agar jangan terlalu sering di cabut colok
 - Ruang pendingin untuk menjaga suhu perangkat mikrotik
 - Perlindungan terhadap lonjangan listrik menggunakan UPS, atau yang melewati POE sebaiknya gunakan Arester.
 
 # kesimpulan 
 
+ penggunaan Mikrotik RouterOS dengan berbagai fitur keamanannya, seperti firewall, dan pengaturan akses, dapat secara efektif melindungi jaringan lokal dari ancaman dan akses yang tidak sah. Kita harus memastikan bahwa router kita harus selalu aman, jangan sampai diakses dan disalah gunakan oleh orang yang tidak bertanggung jawab.
 # sumber 
+
+Citraweb - https://citraweb.com/artikel_lihat.php?id=263
